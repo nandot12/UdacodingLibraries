@@ -52,7 +52,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.nandot12'
                 artifactId = 'nandot12-UdacodingLibraries'
-                version = '2.1'
+                version = '2.9'
             }
         }
     }
